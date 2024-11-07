@@ -9,7 +9,7 @@ public class Bill3 {
 		
 		Double pricefor3 = Double.parseDouble(args[3]);
 		 Double p =Math.ceil(pricefor3 /3);
-		System.out.println("Dear " + name1 + ", " + name2 + ", " + "and " + name3 + ": pay " + p + " Shekels each.");
+		System.out.println("Dear " + name3 + ", " + name2 + ", " + "and " + name1 + ": pay " + p + " Shekels each.");
 
 		
 		
