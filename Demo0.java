@@ -10,4 +10,4 @@ public class Demo0 {
             i = i + 1;    
         }
     }
- }
+ }int sum = 5 + 10;
